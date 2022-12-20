@@ -296,7 +296,7 @@
 <section class="fact-counter-area black-bg" style="background-image:url(images/resources/fact-counter-bg-v2.jpg);">
     <div class="container">
         <div class="sec-title text-center">
-            <h1>Quality & Safety At San Lucas Hospital</h1>
+            <h1>Quality & Safety At <?= $settings->siteTitle ?></h1>
             <p>We are committed to delivering the highest quality and safest care possible for every patient.</p>
         </div>
     </div>

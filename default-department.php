@@ -223,7 +223,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="title pull-left">
-                    <h1>Quality & Safety At San Lucas Hospital</h1>
+                    <h1>Quality & Safety At <?= $settings->siteTitle ?></h1>
                     <p>We are committed to delivering the highest quality and safest care possible for every patient.</p>
                 </div>
             </div>

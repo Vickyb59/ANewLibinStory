@@ -26,25 +26,25 @@
 		if(
 			( $_SERVER['REMOTE_ADDR'] == '::1' ) || ( $_SERVER['REMOTE_ADDR'] == '127.0.0.1' )
 		){ 		
-			$baseurl = 'http://localhost/sanlucashospital';			
+			$baseurl = 'http://localhost/libintheatre';			
 		}  else {			
-			$baseurl = 'https://sanlucashospital.com/';
+			$baseurl = 'https://libintheatre.ca/';
 		}
 	//main url for SEO configurations
-	$main_url = 'http://www.sanlucashospital.com/';
+	$main_url = 'http://www.libintheatre.ca/';
 	//sweet url
-	$sweet_url = 'www.sanlucashospital.com';
+	$sweet_url = 'www.libintheatre.ca';
 	//sweet domain
-	$sweet_domain = 'sanlucashospital.com';
+	$sweet_domain = 'libintheatre.ca';
 	//main website configuration settings
 		$settings = (object) array(
 			'active' => 'active',
-			'siteTitle' => 'San Lucas Hospital',
+			'siteTitle' => 'Libin Theatre',
 			'siteTagline' => 'Specialized hospital in Kenosha, Wisconsin',
 			'phoneNumber' => '+1(262) 286-2270',
-			'address_a' => '5605 Sheridan Rd',
-			'address_b' => 'Kenosha, WI 53140, USA',
-			'email' => 'info@sanlucashospital.com',
+			'address_a' => '3330 Hospital Dr NW,',
+			'address_b' => 'Calgary, AB T2N 4N1, Canada',
+			'email' => 'info@libintheatre.ca',
 			'themeColor' => '#f58637',
 			'siteLogo' => 'assets/img/logo/logo.png',
 			'liteLogo' => 'assets/img/logo/logo-light.png',
@@ -233,4 +233,3 @@
 	
 
 ?>
-	
