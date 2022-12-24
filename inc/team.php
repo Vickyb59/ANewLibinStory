@@ -14,21 +14,21 @@
                             <div class="box">
                                 <div class="content">
                                     <div class="top">
-                                        <h3>Marc Parcival</h3>
-                                        <span>Newyork</span>
+                                        <h3>Campbell Rashad</h3>
+                                        <span>Calgary</span>
                                     </div>
                                     <span class="border"></span>
                                     <div class="bottom">
                                         <ul>
-                                            <li><i class="fa fa-envelope" aria-hidden="true"></i> Bailey@<?= $sweet_domain; ?></li>
+                                            <li><i class="fa fa-envelope" aria-hidden="true"></i> campbellrashad@<?= $sweet_domain; ?></li>
                                         </ul>    
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="text-holder">
-                            <h3>Marc Parcival</h3> 
-                            <span>Newyork</span>   
+                            <h3>Campbell Rashad</h3> 
+                            <span>Calgary</span>   
                         </div>    
                     </div>
                 </div>
@@ -43,21 +43,21 @@
                             <div class="box">
                                 <div class="content">
                                     <div class="top">
-                                        <h3>Alen Bailey</h3>
-                                        <span>Newyork</span>
+                                        <h3>Bergeron Patricia</h3>
+                                        <span>Calgary</span>
                                     </div>
                                     <span class="border"></span>
                                     <div class="bottom">
                                         <ul>
-                                            <li><i class="fa fa-envelope" aria-hidden="true"></i> Bailey@<?= $sweet_domain; ?></li>
+                                            <li><i class="fa fa-envelope" aria-hidden="true"></i> bergeronpatricia@<?= $sweet_domain; ?></li>
                                         </ul>    
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="text-holder">
-                            <h3>Marc Parcival</h3> 
-                            <span>Newyork</span>   
+                            <h3>Bergeron Patricia</h3> 
+                            <span>Calgary</span>   
                         </div>    
                     </div>
                 </div>
@@ -72,21 +72,21 @@
                             <div class="box">
                                 <div class="content">
                                     <div class="top">
-                                        <h3>Basil Andrew</h3>
-                                        <span>Newyork</span>
+                                        <h3>Anderson Mike</h3>
+                                        <span>Calgary</span>
                                     </div>
                                     <span class="border"></span>
                                     <div class="bottom">
                                         <ul>
-                                            <li><i class="fa fa-envelope" aria-hidden="true"></i> Bailey@<?= $sweet_domain; ?></li>
+                                            <li><i class="fa fa-envelope" aria-hidden="true"></i> andersonmike@<?= $sweet_domain; ?></li>
                                         </ul>    
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="text-holder">
-                            <h3>Marc Parcival</h3> 
-                            <span>Newyork</span>   
+                            <h3>Anderson Mike</h3> 
+                            <span>Calgary</span>   
                         </div>    
                     </div>
                 </div>
@@ -101,21 +101,21 @@
                             <div class="box">
                                 <div class="content">
                                     <div class="top">
-                                        <h3>Edgar Denzil</h3>
-                                        <span>Newyork</span>
+                                        <h3>Evans Olivia</h3>
+                                        <span>Calgary</span>
                                     </div>
                                     <span class="border"></span>
                                     <div class="bottom">
                                         <ul>
-                                            <li><i class="fa fa-envelope" aria-hidden="true"></i> Bailey@<?= $sweet_domain; ?></li>
+                                            <li><i class="fa fa-envelope" aria-hidden="true"></i> evansolivia@<?= $sweet_domain; ?></li>
                                         </ul>    
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="text-holder">
-                            <h3>Edgar Denzil</h3> 
-                            <span>Newyork</span>   
+                            <h3>Evans Olivia</h3> 
+                            <span>Calgary</span>   
                         </div>    
                     </div>
                 </div>

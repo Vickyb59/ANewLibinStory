@@ -40,7 +40,7 @@
 		$settings = (object) array(
 			'active' => 'active',
 			'siteTitle' => 'Libin Theatre',
-			'siteTagline' => 'Specialized hospital in Kenosha, Wisconsin',
+			'siteTagline' => 'Specialized hospital in Calgary, Canada',
 			'phoneNumber' => '+1(262) 286-2270',
 			'address_a' => '3330 Hospital Dr NW,',
 			'address_b' => 'Calgary, AB T2N 4N1, Canada',
