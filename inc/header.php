@@ -88,7 +88,7 @@
                     <div class="navbar-collapse collapse clearfix">
                         <ul class="navigation clearfix">
                             <li <?php echo ( $page_name == 'Home' || $page_parent == 'Home') ? 'class="current"' : ''; ?>><a href="<?= $baseurl; ?>">Home</a></li>
-                            <li class="dropdown <?php echo ( $page_name == 'Abbout Us' || $page_parent == 'Abbout Us') ? 'active' : ''; ?>"><a href="about">About Us</a>
+                            <li class="dropdown <?php echo ( $page_name == 'About Us' || $page_parent == 'About Us') ? 'active' : ''; ?>"><a href="about">About Us</a>
                                 <ul>
                                     <li><a href="about">About <?= $settings->siteTitle ?></a></li>
                                     <li><a href="about#doctors">Meet Our Doctors</a></li>
